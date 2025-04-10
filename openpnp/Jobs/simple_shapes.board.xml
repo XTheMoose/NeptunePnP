@@ -1,0 +1,19 @@
+<openpnp-board version="1.1" name="simple_shapes.board.xml">
+   <dimensions units="Millimeters" x="50.0" y="20.0" z="0.0" rotation="0.0"/>
+   <placements>
+      <placement version="1.4" side="Top" id="U$1" part-id="CIRCLE-CIRCLE" type="Placement" enabled="true">
+         <location units="Millimeters" x="10.0" y="10.0" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U$17" part-id="RECTANGLE-RECTANGLE" type="Placement" enabled="true">
+         <location units="Millimeters" x="25.0" y="10.0" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" side="Top" id="U$2" part-id="RECTANGLE-RECTANGLE" type="Placement" enabled="true">
+         <location units="Millimeters" x="40.0" y="10.0" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+   </placements>
+   <fiducials/>
+   <solder-paste-pads/>
+</openpnp-board>
